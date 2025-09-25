@@ -1,0 +1,86 @@
+[[GAP_pkg_caratinterface]]
+arch = "aarch64"
+git-tree-sha1 = "43fb1a7eab578ff40f4e7f1eb62b9df7b318e5e1"
+os = "macos"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "9b4b3c7b76e76ce5c16aef94bf06b0bd095b92bb854143449fb5f51cf04a0a83"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "aarch64"
+git-tree-sha1 = "541d753e6f732aeaf25bbdf767b7ce7e8dc588f0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "929b22194bf610852f75189b0b6ac24c6cc556ed47d5df811b2fb14910d27312"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "aarch64"
+git-tree-sha1 = "1eefb33314c252a4427112584ca98543369e414c"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "fb84021996608d619c0fa3c42e59300d627fcc4f714586c009cafbeff38dd41b"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "aarch64"
+git-tree-sha1 = "06c6d36dc8a183e3583523c414cad3631d3c1bfb"
+os = "freebsd"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "036a2d7a860d1789dc6dafae06abd4c02feab2664efdd35c89b59da997dd5e73"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "powerpc64le"
+git-tree-sha1 = "fe36025c72843113fcef89914ced0e7972369e4a"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "8d802803bc2b1282a9675bdcdb73fcb7419013a9f2693a988f383b0ba71a9fd7"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "riscv64"
+git-tree-sha1 = "8688f9bb6cc964133d0a24975bdbdfd8b3c85bc2"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "e7ffa0fb7c1d5024ba21ad472fe9dc878b61b292c2b4a2e73717207ebafcd5ef"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "x86_64"
+git-tree-sha1 = "4505c9c19918c16e26b3920451c6d429b48de858"
+os = "macos"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "0777f5063bb3b15317855e5cd960dbda12235c1c704105974378e04b5d0e230d"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "x86_64"
+git-tree-sha1 = "8fc2e1e6c36fbe9b33bf25ecaec43271354b2194"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "69ec0e00d1d7466f49af5a04fe42099a041ca519854897967f0b56507cf07a95"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "x86_64"
+git-tree-sha1 = "0d850854afb177fbf52e40b6d0f6242c417182d5"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "dae72e701821a35122a1e7435a6d9c289ba33f7a86c9961df2d56e6cff9a19ab"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_caratinterface]]
+arch = "x86_64"
+git-tree-sha1 = "59de570442dd4748efbf2a24a23c2973933b79b1"
+os = "freebsd"
+
+    [[GAP_pkg_caratinterface.download]]
+    sha256 = "28e5a9eeb619642a519a17bb2f2c600472fb1eb02e953373a75a2a8464fb762f"
+    url = "https://github.com/lgoettgens/GAP_pkg_caratinterface_jll.jl/releases/download/GAP_pkg_caratinterface-v201.30700.0+0/GAP_pkg_caratinterface.v201.30700.0.x86_64-unknown-freebsd.tar.gz"
